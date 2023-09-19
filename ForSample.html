@@ -49,6 +49,7 @@
             text-decoration: none;
             color: #fff;
             font-weight: bold;
+            cursor: pointer;
         }
 
         /* Main content container */
@@ -77,9 +78,9 @@
 
     <nav>
         <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about-me">About Me</a></li>
-            <li><a href="#web-development">Web Development</a></li>
+            <li><a href="#home" onclick="scrollToSection('home')">Home</a></li>
+            <li><a href="#about-me" onclick="scrollToSection('about-me')">About Me</a></li>
+            <li><a href="#web-development" onclick="scrollToSection('web-development')">Web Development</a></li>
         </ul>
     </nav>
 
@@ -97,5 +98,14 @@
         <h2>Web Development</h2>
         <p>Explore my web development projects and activities here.</p>
     </div>
+
+    <script>
+        function scrollToSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    </script>
 </body>
 </html>

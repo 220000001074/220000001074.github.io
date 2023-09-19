@@ -10,15 +10,15 @@ body {
 }
 
 header {
-    background-color: skyblue;
-    color: #fff;
+    background-color:skyblue;
+    color:red;
     text-align: center;
     padding: 40px;
 }
 
 nav ul {
     list-style-type: none;
-    background-color: #444;
+    background-color: green;
     text-align: center;
 }
 
@@ -43,7 +43,7 @@ section {
 
 /* Style the clickable links */
 nav ul li a:hover {
-    background-color: #555;
+    background-color: pink;
     padding: 5px 10px;
     border-radius: 5px;
 }

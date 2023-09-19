@@ -14,8 +14,8 @@ header {
     background-color:skyblue;
     color:black;
     text-align: center;
-    padding: 30px;
-    font-size:50px;
+    padding: 20px;
+    font-size:35px;
 }
 
 
@@ -46,6 +46,6 @@ nav ul li a:hover {
     border-radius: 20px;
 }
 tr {
-    font-size:40px;
+    font-size:25px;
     font-family:"arial";
 }

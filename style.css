@@ -72,29 +72,13 @@ a:hover {
     font-size:30px;
 }
 
-       }
-.sec-des-left {
-    width: 45ch;
-    font-size:20px;
-}
+       
 
-.sec-des p {
-    line-height: 2;
-}
 
 h3 {
     font-size: 3rem;
     color: rgb(210, 15, 15);
 }
-
-
-}
-
-
-}
-
-}
-
 
 
 
@@ -148,4 +132,12 @@ font-weight:30;
 
 .exp-left {
     order: 2;
+}
+.sec-des-left {
+    width: 45ch;
+    font-size:20px;
+}
+
+.sec-des p {
+    line-height: 2;
 }

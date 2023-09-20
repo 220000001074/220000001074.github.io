@@ -131,3 +131,8 @@ font-weight:30;
     padding: 9rem 7.5rem;
     justify-content: space-between;
 ]
+.exp {
+    padding: 10.1rem 7.5rem;
+    background: #0c0909;
+    color: rgb(235, 235 , 235);
+}

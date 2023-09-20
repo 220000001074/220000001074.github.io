@@ -136,3 +136,16 @@ font-weight:30;
     background: #0c0909;
     color: rgb(235, 235 , 235);
 }
+.exp h3 {
+    background: #0c0909;
+    color: rgb(220, 20, 20);
+}
+
+.exp img {
+    border-radius: 10px;
+    width: 30vw;
+}
+
+.exp-left {
+    order: 2;
+}

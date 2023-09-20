@@ -109,3 +109,9 @@ h2 {
 name {
 font-weight:30;
 }
+
+.right-nav img {
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}

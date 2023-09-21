@@ -201,26 +201,12 @@ article {
     opacity: 0.7;
 }
 
+.all {
+    background-color:black;
+}
+    
+
 .box-mid h3 {
     color: inherit;
 }
-
-    .info-company {
-    background-color: #262fdc;
-    padding: 5rem;
-    display: flex;
-    gap: 27.5rem;
-    color: rgb(241, 241, 241);
-}
-
-.info-2 {
-    background-color: white;
-    color: black;
-}
-
-.box-info {
-    display: flex;
-    flex-direction: column;
-    margin: 30rem 0;
-    gap: 1rem;
-}
+\

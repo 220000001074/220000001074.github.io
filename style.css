@@ -182,8 +182,6 @@ article {
     gap: 1.5rem;
 }
 
-
-
 .box-mid {
     width: 300px;
     padding: 2rem 0;
@@ -192,10 +190,6 @@ article {
     rgba(17, 17, 26, 0.1) 0px 0px 8px;
     text-align: center;
 }
-
-
-
-
 .box-mid:hover {
     background-color: #2b36f4;
     color: rgb(237, 237, 237);
@@ -215,6 +209,6 @@ article {
 
 
 box-mid{
-    font-size:35px;
-    line-height:10;
+    font-size: 35px;
+    line-height: 10;
 }

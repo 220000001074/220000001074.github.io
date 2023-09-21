@@ -164,12 +164,12 @@
 
 .desktop .text-wrapper-3 {
   position: absolute;
-  top: 12px;
-  left: 5px;
+  top: 14px;
+  left: 1px;
   font-family: "Inika-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 29.5px;
+  font-size: 29px;
   letter-spacing: 0;
   line-height: 40px;
   white-space: nowrap;

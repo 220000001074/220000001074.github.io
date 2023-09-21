@@ -107,11 +107,11 @@ font-weight:30;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #f9fafb;
+    background-color: black;
     color: rgb(194, 34, 34);
     display: flex;
     align-items: center;
-    padding: 9rem 7.5rem;
+    padding: 7rem 7.5rem;
     justify-content: space-between;
 
 .exp {

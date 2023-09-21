@@ -209,7 +209,8 @@ article {
 }
 
 
-box-mid{
-    font-size: 20px;
+.box-mid{
+    font-size: 30px;
     line-height: 1;
+    
 }

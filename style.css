@@ -205,10 +205,11 @@ article {
 .all{
     background-color: black;
     color:red;
+    line-height:2;
 }
 
 
 box-mid{
-    font-size: 35px;
+    font-size: 30px;
     line-height: 3;
 }

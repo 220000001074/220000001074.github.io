@@ -107,7 +107,7 @@ font-weight:30;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: blue;
+    background-color: white;
     color: rgb(194, 34, 34);
     display: flex;
     align-items: center;
@@ -211,8 +211,16 @@ article {
     line-height: 1;
     
 }
-.sec-des exp{
-    background-color: white;
-    color:black;
-}
-    <section class="sec-des exp" 
+
+
+
+.sec-des exp {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: rgb(194, 34, 34);
+    display: flex;
+    align-items: center;
+    padding: 10rem 7.5rem;
+    justify-content: space-between;

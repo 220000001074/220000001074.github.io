@@ -1,19 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
-
+<-- CSS FILE OF THE PORTFOLIO --->
 html {
     scroll-behavior: smooth;
 }
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     font-family: 'Poppins', sans-serif;
 }
-
 .container {
     background:  linear-gradient(rgba(0, 0, 0, 0.3),rgba(134, 7, 7, 0.6)),url(bg.jpg.png);
     height: 100vh;
@@ -21,28 +18,23 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 nav {
     display: flex;
     align-items: center;
     padding: 1rem 3rem 0 3rem;
     justify-content: space-between;
 }
-
 nav a {
     text-decoration: none;
     color: white;
     padding-inline: 1rem;
 }
-
 a:hover {
     opacity: 0.7;
 }
-
 .left-nav {
     display: flex;
 }
-
 
 .right-nav img {
     height: 50px;
@@ -78,8 +70,6 @@ h3 {
     font-size: 3rem;
     color: rgb(210, 15, 15);
 }
-
-
 
 h2 {
     font-size: 10rem;
@@ -167,8 +157,6 @@ background-color: black;
 .sec-des-left exp-left {
 background-color: black;
 }
-
-
 article {
     display: flex;
     flex-wrap: wrap;
@@ -202,26 +190,8 @@ article {
 .box-mid h3 {
     color: inherit;
 }
-
-
-
-
 .box-mid{
     font-size: 30px;
-    line-height: 1;
-    
+    line-height: 1; 
 }
 
-
-
-.sec-des exp {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: black;
-    color: rgb(194, 34, 34);
-    display: flex;
-    align-items: center;
-    padding: 10rem 7.5rem;
-    justify-content: space-between;
-}
